@@ -19,58 +19,28 @@
       "video_url": "https://www.youtube.com/embed/szvt1vD0Uug"
     },
     {
-      "caption": "Thaniye mizhikal",
-      "cover_images": "https://i.postimg.cc/63M2W2cr/guppy.jpg",
-      "video_url": "https://www.youtube.com/embed/nnWl6rfNUkQ",
+      "caption": "SPICY CHICKEN WINGS",
+      "cover_images": "https://i.postimg.cc/c1cb36Zf/download-8.jpg",
+      "video_url": "https://www.youtube.com/embed/kJWwOgclXwE",
       "id": 6
     },
     {
-      "id": 8,
-      "caption": "suriya",
-      "cover_images": "https://i.postimg.cc/TYFJPM4L/surya.jpg",
-      "video_url": "https://www.youtube.com/embed/o0LnNhP1bq8"
+      "caption": "Pulled Beef Burger",
+      "cover_images": "https://i.postimg.cc/x1Jr5V3f/images-2.jpg",
+      "video_url": "https://www.youtube.com/embed/zm1sgvZ7z2A",
+      "id": 8
     }
   ],
   "categories": [
     {
-      "id": 1,
-      "name": "song",
+      "id": "lodzvkxi",
+      "name": "Songs",
       "videos": [
         {
           "id": 3,
           "caption": "Mast Magan ",
           "cover_images": "https://i.postimg.cc/8Pb4Mnr9/mast-magan.jpg",
           "video_url": "https://www.youtube.com/embed/xitd9mEZIHk"
-        },
-        {
-          "caption": "Thaniye mizhikal",
-          "cover_images": "https://i.postimg.cc/63M2W2cr/guppy.jpg",
-          "video_url": "https://www.youtube.com/embed/nnWl6rfNUkQ",
-          "id": 6
-        },
-        {
-          "id": 3,
-          "caption": "Mast Magan ",
-          "cover_images": "https://i.postimg.cc/8Pb4Mnr9/mast-magan.jpg",
-          "video_url": "https://www.youtube.com/embed/xitd9mEZIHk"
-        },
-        {
-          "caption": "Thaniye mizhikal",
-          "cover_images": "https://i.postimg.cc/63M2W2cr/guppy.jpg",
-          "video_url": "https://www.youtube.com/embed/nnWl6rfNUkQ",
-          "id": 6
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "movies",
-      "videos": [
-        {
-          "id": 5,
-          "caption": "LEO - Naa Ready",
-          "cover_images": "https://i.postimg.cc/hvZwgrN9/LEO.jpg",
-          "video_url": "https://www.youtube.com/embed/szvt1vD0Uug"
         },
         {
           "id": 4,
@@ -87,42 +57,48 @@
       ]
     },
     {
-      "id": 3,
-      "name": "entertaiment",
+      "id": "XViHJRg",
+      "name": "food",
       "videos": [
         {
-          "caption": "Thaniye mizhikal",
-          "cover_images": "https://i.postimg.cc/63M2W2cr/guppy.jpg",
-          "video_url": "https://www.youtube.com/embed/nnWl6rfNUkQ",
+          "caption": "SPICY CHICKEN WINGS",
+          "cover_images": "https://i.postimg.cc/c1cb36Zf/download-8.jpg",
+          "video_url": "https://www.youtube.com/embed/kJWwOgclXwE",
           "id": 6
         },
         {
-          "id": 5,
-          "caption": "LEO - Naa Ready",
-          "cover_images": "https://i.postimg.cc/hvZwgrN9/LEO.jpg",
-          "video_url": "https://www.youtube.com/embed/szvt1vD0Uug"
-        },
-        {
-          "id": 4,
-          "caption": "ok kanmani",
-          "cover_images": "https://i.postimg.cc/g2L2Z1xH/ok-kanmani.jpg",
-          "video_url": "https://www.youtube.com/embed/ryD8BqVexJI"
-        },
-        {
-          "caption": "suriya43",
-          "cover_images": "https://i.postimg.cc/TYFJPM4L/surya.jpg",
-          "video_url": "https://www.youtube.com/embed/o0LnNhP1bq8",
-          "id": 7
+          "caption": "Pulled Beef Burger",
+          "cover_images": "https://i.postimg.cc/x1Jr5V3f/images-2.jpg",
+          "video_url": "https://www.youtube.com/embed/zm1sgvZ7z2A",
+          "id": 8
         }
       ]
     }
   ],
   "histories": [
     {
-      "id": "lo6stuc5",
-      "video_title": "channa mereya",
-      "url": "https://www.youtube.com/embed/284Ov7ysmfA",
-      "date": "2023-10-26 11:54:00 AM"
+      "id": "loe0gkhv",
+      "video_title": "Mast Magan ",
+      "url": "https://www.youtube.com/embed/xitd9mEZIHk",
+      "date": "2023-10-31 1:02:01 PM"
+    },
+    {
+      "id": "loe0goyv",
+      "video_title": "ok kanmani",
+      "url": "https://www.youtube.com/embed/ryD8BqVexJI",
+      "date": "2023-10-31 1:02:07 PM"
+    },
+    {
+      "id": "loe0gtkv",
+      "video_title": "SPICY CHICKEN WINGS",
+      "url": "https://www.youtube.com/embed/kJWwOgclXwE",
+      "date": "2023-10-31 1:02:13 PM"
+    },
+    {
+      "id": "loe0gx5p",
+      "video_title": "LEO - Naa Ready",
+      "url": "https://www.youtube.com/embed/szvt1vD0Uug",
+      "date": "2023-10-31 1:02:18 PM"
     }
   ]
 }
